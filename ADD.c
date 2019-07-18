@@ -12,7 +12,8 @@ c=a+b;
 d=a-b;
 e=a*b;
 printf("The addition is:%d",c);
-print("The subtraction is%d",d);
-printf("The Multiplication is:%d,e);
+printf("The subtraction is:%d",d);
+printf(“The Multiplication is:%d”,e);
 gtech();
 }
+
