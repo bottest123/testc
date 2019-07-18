@@ -3,7 +3,7 @@
 void main()
 {
 printf("Welcome to Horizon 2K19");
-int a,b,c,d;
+int a,b,c,d,e;
 printf("Enter value of a:",a);
 scanf("%d",&a);
 printf("Enter value of b:",b);
